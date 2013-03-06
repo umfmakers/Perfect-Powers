@@ -12,12 +12,12 @@ For each test case, output a line giving the largest integer p such that x is a 
 
 Sample Input
 
-17
-1073741824
-25
-0
-Output for Sample Input
+17\n
+1073741824\n
+25\n
+0\n
+Output for Sample Input\n
 
-1
-30
+1\n
+30\n
 2
